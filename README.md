@@ -2,7 +2,7 @@
 
 A simple single-page personal website built for Task 2 (Personal Introduction Page) of my Web Development internship.
 
-**Live page:** YOUR_GITHUB_PAGES_LINK_HERE
+**Live page:** https://cedrick40.github.io/personal-intro-page/
 
 ## About the project
 
